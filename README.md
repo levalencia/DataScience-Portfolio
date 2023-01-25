@@ -1,7 +1,40 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+Data Science Projects
+===============
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+## Data Cleaning and Data Preparation
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+[Real State Transactions Per Municipality](RealStateTransactionsPerMunicipality/Real%20State%20Analysis.ipynb)
+
+The government has given us a dataset with aggregated data of real state transactions per municipality, per quarter, per semester and year. Our job is to describe the data, clean it, wrangle it and/or prepare it for further processing in an ML forecasting project or for Data StoryTelling.
+
+
+
+## Classification
+  
+
+[Wine Quality Classification Problem](WineClassification/WineClassificationProject.ipynb)
+
+We have a wine dataset with information about chemical ingredients, ph, and a quality score from 0 to 10. We want to classify a wine as good or bad, the idea is that good wines are scored 7 or above, all the rest are bad wines.
+
+
+
+## Recommender Systems
+
+
+[Recommender system for  internal tranings](RecommenderSystemsTraining/TrainingRecomendations.ipynb)
+
+The idea of this project is easy, we have internal trainings created by our company employees, we have also external trainings that we take via pluralsight, udemy or any other platform like coursera, and we have employees which take those internal or external trainings. Employees have some attributes, like department, language, skills, etc. All those attributes need to be taken into account into our recommender system.
+
+For example: if you are a new employee with only 1 year of experience in Data Science (feature), and in the skills(feature) you have listed Statistics, Machine Learning, but another person in the company, has 10 years of experience in DataScience, with similar skills, and if that person took "Advanced machine learning specialization" in coursera. The recommender system would be able to predict a.k.a recommend this training to the new employee.
+
+
+
+
+## Regression
+
+[Real State Price Prediction](RealStatePricePrediction/Demo.ipynb)
+
+We are required to build a model to predict house prices in the Belgium Real State Market, the idea is that when users want to buy a new house, they can compare the listed price with the model prediction and check if it the prices are similar and take a decision.
+
+
