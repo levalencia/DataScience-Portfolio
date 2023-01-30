@@ -38,3 +38,10 @@ For example: if you are a new employee with only 1 year of experience in Data Sc
 We are required to build a model to predict house prices in the Belgium Real State Market, the idea is that when users want to buy a new house, they can compare the listed price with the model prediction and check if it the prices are similar and take a decision.
 
 
+## Time Series Forecasting
+
+[Forecasting Energy Inflation in Belgium](ForecastEnergyInflationBelgium/Sarimax.ipynb)
+
+Belgium Gas and Energy Prices skyrocketed last year, and recently we received the news that price has lowered from 300 Euros per MWH to 60 Euros per MWH. With this project I took the last years data for Energy Inflation and forecasted the next 4 months to see if our pockets will finally breathe a bit.
+
+
