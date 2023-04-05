@@ -1,0 +1,48 @@
+,name,total,train,test,bounding_box
+0,Homer Simpson,2246,1909,337,612
+1,Ned Flanders,1454,1236,218,595
+2,Moe Szyslak,1452,1234,218,215
+3,Lisa Simpson,1354,1151,203,562
+4,Bart Simpson,1342,1141,201,554
+5,Marge Simpson,1291,1097,194,557
+6,Krusty The Clown,1206,1025,181,226
+7,Principal Skinner,1194,1015,179,506
+8,Charles Montgomery Burns,1193,1014,179,650
+9,Milhouse Van Houten,1079,917,162,210
+10,Chief Wiggum,986,838,148,209
+11,Abraham Grampa Simpson,913,776,137,595
+12,Sideshow Bob,877,745,132,203
+13,Apu Nahasapeemapetilon,623,530,93,206
+14,Kent Brockman,498,423,75,213
+15,Comic Book Guy,469,399,70,208
+16,Edna Krabappel,457,388,69,212
+17,Nelson Muntz,358,304,54,219
+18,Lenny Leonard,310,264,46,0
+19,Mayor Quimby,246,209,37,0
+20,Waylon Smithers,181,154,27,0
+21,Maggie Simpson,128,109,19,0
+22,Groundskeeper Willie,121,103,18,0
+23,Barney Gumble,106,90,16,0
+24,Selma Bouvier,103,88,15,0
+25,Carl Carlson,98,83,15,0
+26,Ralph Wiggum,89,76,13,0
+27,Patty Bouvier,72,61,11,0
+28,Martin Prince,71,60,11,0
+29,Professor John Frink,65,55,10,0
+30,Snake Jailbird,55,47,8,0
+31,Cletus Spuckler,47,40,7,0
+32,Rainier Wolfcastle,45,38,7,0
+33,Agnes Skinner,42,36,6,0
+34,Sideshow Mel,40,34,6,0
+35,Otto Mann,32,27,5,0
+36,Fat Tony,27,23,4,0
+37,Gil,27,23,4,0
+38,Miss Hoover,17,14,3,0
+39,Disco Stu,8,7,1,0
+40,Troy Mcclure,8,7,1,0
+41,Lionel Hutz,3,3,0,0
+42,Jimbo Jones,0,0,0,0
+43,Bumblebee Man,0,0,0,0
+44,Hans Moleman,0,0,0,0
+45,Helen Lovejoy,0,0,0,0
+46,Jasper Beardly,0,0,0,0
