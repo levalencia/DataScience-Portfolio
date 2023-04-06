@@ -1,7 +1,7 @@
 Data Science Projects
 ===============
 
-## Deep Learning, PyTorch, Transformers or  PHuggingFace Projects
+## Deep Learning, PyTorch, Transformers or  HuggingFace Projects
 
 [Building a TinyVGG Model from Scratch to Classify The Simpsons Characters with PyTorch 2.0](https://github.com/levalencia/DataScience-Portfolio/blob/main/SimpsonsClassifier/Pytorch%20-%20Simpsons%20Multi%20Classifier.ipynb)
 
