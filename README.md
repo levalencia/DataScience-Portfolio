@@ -13,6 +13,16 @@ We will start by discussing what deep learning is and why it's becoming increasi
 
 Throughout this project, we will use PyTorch, a popular deep learning library known for its simplicity and ease of use. We will use PyTorch's custom dataset functionality to load and preprocess our data, and we will use its built-in optimization and loss functions to train our model.
 
+[Transfer Learning for Image Classification with PyTorch](https://github.com/levalencia/DataScience-Portfolio/blob/main/TransferLearningWithPytorch/Transfer_Learning_for_Image_Classification.ipynb)
+
+In my previous [project](https://github.com/levalencia/DataScience-Portfolio/blob/main/SimpsonsClassifier/Pytorch%20-%20Simpsons%20Multi%20Classifier.ipynb) I created a CNN from scratch, but in the real world you would barely do that and instead rely on existing pretrained models, we will take an existing model and modify the classification head for our specific problem.
+
+
+[Building a TinyVGG Model from Scratch to Classify The Simpsons Characters with PyTorch 2.0](https://github.com/levalencia/DataScience-Portfolio/blob/main/SimpsonsClassifier/Pytorch%20-%20Simpsons%20Multi%20Classifier.ipynb)
+
+In this project I created a CNN from scratch, TinyVGG its a well known CNN architecture, and I create it in order for readers to understand all steps needed to create, train and evaluare a deep learning model from its roots.
+
+
 [Fine-tuning DistilBERT with your own dataset for multi-classification task](https://github.com/levalencia/DataScience-Portfolio/blob/main/FineTuningDistilbert/HateSpeechFineTuningWithDistilberta.ipynb)
 
 HuggingFace and the transformers library has made it very easily for us to avoid training Large Language Models, instead we can re-use existing models, by just donwloading them from the HF Hub and then with Pytorch and Transfomers API Fine tune it for your own specific task with your own specific labels. The end result a great model which used State of The Art Pretrained model but fit to your needs.  In this case I selected DistilBert and fine tuned it for hate speech or offensive tweets detection.  In this notebook I start from the very beginning by introducting NLP Concepts, and to until the end when the model is saved to disk, loaded and then used for inference.
