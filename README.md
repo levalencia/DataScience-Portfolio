@@ -3,16 +3,6 @@ Luis Valencia Data Science Portfolio
 
 ## Deep Learning, PyTorch, Transformers or  HuggingFace Projects
 
-[Building a TinyVGG Model from Scratch to Classify The Simpsons Characters with PyTorch 2.0](https://github.com/levalencia/DataScience-Portfolio/blob/main/SimpsonsClassifier/Pytorch%20-%20Simpsons%20Multi%20Classifier.ipynb)
-
-If you're a fan of The Simpsons and interested in deep learning, you're in for a treat. In this portfolio project, we will be building a TinyVGG model from scratch using PyTorch to classify The Simpsons characters from images. This project will showcase how to build a custom dataset and train a model.
-
-The Simpsons has been entertaining audiences for over 30 years, and with over 700 characters, it's hard to keep track of them all. With the help of deep learning, we can train a model that can recognize each character in a matter of seconds. This project will demonstrate how to preprocess the data, build a custom dataset, create and train the model, and evaluate its performance.
-
-We will start by discussing what deep learning is and why it's becoming increasingly popular in various industries. We will then dive into the details of building a TinyVGG model from scratch, a small version of the VGG model, which is known for its simplicity and effectiveness. We will also learn how to use transfer learning, a popular technique that allows us to use a pre-trained model's weights as a starting point for our model.
-
-Throughout this project, we will use PyTorch, a popular deep learning library known for its simplicity and ease of use. We will use PyTorch's custom dataset functionality to load and preprocess our data, and we will use its built-in optimization and loss functions to train our model.
-
 [Transfer Learning for Image Classification with PyTorch](https://github.com/levalencia/DataScience-Portfolio/blob/main/TransferLearningWithPytorch/Transfer_Learning_for_Image_Classification.ipynb)
 
 In my previous [project](https://github.com/levalencia/DataScience-Portfolio/blob/main/SimpsonsClassifier/Pytorch%20-%20Simpsons%20Multi%20Classifier.ipynb) I created a CNN from scratch, but in the real world you would barely do that and instead rely on existing pretrained models, we will take an existing model and modify the classification head for our specific problem.
