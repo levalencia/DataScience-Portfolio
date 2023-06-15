@@ -1,0 +1,127 @@
+Name: John Doe
+Age: 72
+Gender: Male
+Address: 123 Main St
+Phone: 555-1234
+Email: johndoe@example.com
+Interests: Gardening, Reading, Chess
+Likes: Coffee
+Dislikes: Snakes, Dust
+Allergies: None
+Location: Miami
+
+Name: Jane Smith
+Age: 68
+Gender: Female
+Address: 456 Elm St
+Phone: 555-5678
+Email: janesmith@example.com
+Interests: Painting, Traveling, Yoga
+Likes: Tea
+Dislikes: Spiders, Pollen
+Allergies: None
+Location: Seattle
+
+Name: Robert Johnson
+Age: 75
+Gender: Male
+Address: 789 Oak St
+Phone: 555-9012
+Email: robertjohnson@example.com
+Interests: Photography, Golf, Music
+Likes: Wine
+Dislikes: Loud noises, Nuts
+Allergies: None
+Location: Miami
+
+Name: Mary Davis
+Age: 70
+Gender: Female
+Address: 321 Maple Ave
+Phone: 555-3456
+Email: marydavis@example.com
+Interests: Knitting, Hiking, Volunteering
+Likes: Chocolate
+Dislikes: Insects, Pet dander
+Allergies: None
+Location: Seattle
+
+Name: William Wilson
+Age: 74
+Gender: Male
+Address: 654 Birch Rd
+Phone: 555-7890
+Email: williamwilson@example.com
+Interests: Cooking, Fishing, Writing
+Likes: Cats
+Dislikes: Dairy, Grass
+Allergies: None
+Location: Miami
+
+Name: Alice Brown
+Age: 80
+Gender: Female
+Address: 987 Pine Ln
+Phone: 555-2345
+Email: alicebrown@example.com
+Interests: Reading, Painting, Music
+Likes: Coffee
+Dislikes: Dogs, Pollen
+Allergies: None
+Location: Seattle
+
+Name: Michael Johnson
+Age: 72
+Gender: Male
+Address: 654 Oak St
+Phone: 555-6789
+Email: michaeljohnson@example.com
+Interests: Gardening, Golf, Traveling
+Likes: Tea
+Dislikes: Snakes, Pollen
+Allergies: None
+Location: Miami
+
+Name: Susan Thompson
+Age: 69
+Gender: Female
+Address: 321 Elm St
+Phone: 555-9012
+Email: susanthompson@example.com
+Interests: Yoga, Reading, Hiking
+Likes: Wine
+Dislikes: Spiders, Loud noises
+Allergies: None
+Location: Seattle
+
+Name: Richard Davis
+Age: 76
+Gender: Male
+Address: 789 Maple Ave
+Phone: 555-3456
+Email: richarddavis@example.com
+Interests: Fishing, Photography, Volunteering
+Likes: Chocolate
+Dislikes: Insects, Nuts
+Allergies: None
+Location: Miami
+
+Name: Emily Wilson
+Age: 71
+Gender: Female
+Address: 123 Birch Rd
+Phone: 555-7890
+Email: emilywilson@example.com
+Interests: Writing, Cooking, Knitting
+Likes: Cats
+Dislikes: Dairy, Pet dander
+Allergies: None
+Location: Seattle
+
+Name: David Smith
+Age: 77
+Gender: Male
+Address: 456 Oak Ln
+Phone: 555-1234
+Email: davidsmith@example.com
+Interests: Music, Gardening
