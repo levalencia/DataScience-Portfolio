@@ -4,6 +4,7 @@ Luis Valencia Data Science Portfolio
 ## Langchain, OpenAI, Vector DB, Pinecone
 
 [Creating a Langchain application with Streamlit, OpenAI to talk to your own text documents using Pinecone as Vector DB](https://github.com/levalencia/DataScience-Portfolio/blob/main/LangChainWithTextFile/LangChainWithTextFile.ipynb)
+
 Discover the power of Langchain applications! In this blog post, I will explore how to create a cutting-edge Langchain application that enables you to interact with your own text documents in a conversational manner. By harnessing the capabilities of  Langchain, OpenAI, and Pinecone as a Vector DB, we'll guide you through the process of building a seamless user experience.
 
 ## Deep Learning, PyTorch, Transformers or  HuggingFace Projects
