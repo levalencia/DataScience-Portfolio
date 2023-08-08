@@ -1,9 +1,9 @@
 Luis Valencia Data Science Portfolio
 ===============
 
-## Langchain, OpenAI, Cognitive Search, 
-Vector DB, Pinecone
-(https://github.com/levalencia/DataScience-Portfolio/blob/main/UnderstandingOpenAIEmbeddingsGenerator/Understanding.ipynb)
+## Langchain, OpenAI, Cognitive Search, Vector DB, Pinecone
+
+[Beyond Search: Unifying Azure Cognitive Search's Custom Skills, OpenAI Embeddings, and LLMs for Data-Driven Conversations](https://github.com/levalencia/DataScience-Portfolio/blob/main/UnderstandingOpenAIEmbeddingsGenerator/Understanding.ipynb)
 
 Discover the synergy of Azure Cognitive Search's custom skills and OpenAI Embedding Generator. Unleash the potential of enhanced data indexing, AI embeddings, and Language Models for enriched search and dynamic interactions. Explore the  series that transforms insights into conversations, bridging the gap between data and AI-driven engagement. 
 
