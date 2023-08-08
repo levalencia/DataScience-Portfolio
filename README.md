@@ -1,7 +1,11 @@
 Luis Valencia Data Science Portfolio
 ===============
 
-## Langchain, OpenAI, Vector DB, Pinecone
+## Langchain, OpenAI, Cognitive Search, 
+Vector DB, Pinecone
+(https://github.com/levalencia/DataScience-Portfolio/blob/main/UnderstandingOpenAIEmbeddingsGenerator/Understanding.ipynb)
+
+Discover the synergy of Azure Cognitive Search's custom skills and OpenAI Embedding Generator. Unleash the potential of enhanced data indexing, AI embeddings, and Language Models for enriched search and dynamic interactions. Explore the  series that transforms insights into conversations, bridging the gap between data and AI-driven engagement. 
 
 [Creating a Langchain application with Streamlit, OpenAI to talk to your own text documents using Pinecone as Vector DB](https://github.com/levalencia/DataScience-Portfolio/blob/main/LangChainWithTextFile/LangChainWithTextFile.ipynb)
 
