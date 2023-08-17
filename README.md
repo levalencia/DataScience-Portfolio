@@ -1,11 +1,19 @@
 Luis Valencia Data Science Portfolio
 ===============
 
-## Langchain, OpenAI, Cognitive Search, Vector DB, Pinecone
+## LLMs, Langchain, OpenAI, Cognitive Search, Vector DB, Pinecone
 
-[Beyond Search: Unifying Azure Cognitive Search's Custom Skills, OpenAI Embeddings, and LLMs for Data-Driven Conversations](https://github.com/levalencia/DataScience-Portfolio/blob/main/UnderstandingOpenAIEmbeddingsGenerator/Understanding.ipynb)
+[Elevate Chat & AI Applications: Mastering Azure Cognitive Search with Vector Storage for LLM Applications with Langchain](https://github.com/levalencia/DataScience-Portfolio/blob/main/ElevateChat&AIApplications/Index.ipynb)
 
-Discover the synergy of Azure Cognitive Search's custom skills and OpenAI Embedding Generator. Unleash the potential of enhanced data indexing, AI embeddings, and Language Models for enriched search and dynamic interactions. Explore the  series that transforms insights into conversations, bridging the gap between data and AI-driven engagement. 
+Discover the synergy of Azure Cognitive Search's custom skills and OpenAI Embedding Generator. Unleash the potential of enhanced data indexing, AI embeddings, and Language Models for enriched search and dynamic interactions. Explore the  series that transforms insights into conversations, bridging the gap between data and AI-driven engagement. We use Cognitive Search Vector Storage Public Preview, Langchain, Open AI,We use features like Knowledge Store, Custom Skilsets. Its an exciting portfolio project split in 5 parts:
+
+* [ Part 1 — Architecture: Building the Foundation for AI-Powered Conversations](ElevateChat&AIApplications/Part1%20--%20Architecture:%20%20Building%20the%20Foundation%20for%20AI-Powered%20Conversations.ipynb)
+* [Part 2 -- Embedding Generator for Cognitive Search: Revolutionizing Conversational Context](ElevateChat&AIApplications/Part2%20--%20Embedding%20Generator%20for%20Cognitive%20Search:%20Revolutionizing%20Conversational%20Context.ipynb)
+* [Part 3 -- Configuration Deep Dive: Empowering Conversations with Vector Storage](ElevateChat&AIApplications/Part3%20--%20Configuration%20Deep%20Dive:%20Empowering%20Conversations%20with%20Vector%20Storage.ipynb)
+* [Part 4 -- Backend Brilliance: Integrating Langchain and Cognitive Search for AI-Powered Chat](ElevateChat&AIApplications/Part4%20--%20%20Backend%20Brilliance:%20Integrating%20Langchain%20and%20Cognitive%20Search%20for%20AI-Powered%20Chats.ipynb)
+* [Part 5 -- Frontend Flourish: Craft Immersive AI Experiences Using Streamlit](ElevateChat&AIApplications/Part5%20--%20%20Frontend%20Flourish:%20Craft%20Immersive%20AI%20Experiences%20Using%20Streamlit.ipynb)
+
+
 
 [Creating a Langchain application with Streamlit, OpenAI to talk to your own text documents using Pinecone as Vector DB](https://github.com/levalencia/DataScience-Portfolio/blob/main/LangChainWithTextFile/LangChainWithTextFile.ipynb)
 
