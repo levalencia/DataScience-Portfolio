@@ -3,7 +3,7 @@ Luis Valencia Data Science Portfolio
 
 ## LLMs, Langchain, OpenAI, Cognitive Search, Vector DB, Pinecone
 
-[Creating a Llama2 Managed Endpoint in Azure ML and Using it from Langchain]([https://github.com/levalencia/DataScience-Portfolio/blob/main/LangChainWithTextFile/LangChainWithTextFile.ipynb](https://github.com/levalencia/DataScience-Portfolio/tree/main/Llama2WithLangchainAndAzureml)
+[Creating a Llama2 Managed Endpoint in Azure ML and Using it from Langchain]((https://github.com/levalencia/DataScience-Portfolio/tree/main/Llama2WithLangchainAndAzureml)
 
 Discover the power of combining Azure ML Studio with the new model catalog, and deploy the models as Managed Endpoints, and then consuming those from Streamlit applications, no need to rely on OpenAI Models anymore when you have this.
 
