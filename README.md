@@ -3,6 +3,11 @@ Luis Valencia Data Science Portfolio
 
 ## LLMs, Langchain, OpenAI, Cognitive Search, Vector DB, Pinecone
 
+[Creating a Llama2 Managed Endpoint in Azure ML and Using it from Langchain]([https://github.com/levalencia/DataScience-Portfolio/blob/main/LangChainWithTextFile/LangChainWithTextFile.ipynb](https://github.com/levalencia/DataScience-Portfolio/tree/main/Llama2WithLangchainAndAzureml))
+
+Discover the power of combining Azure ML Studio with the new model catalog, and deploy the models as Managed Endpoints, and then consuming those from Streamlit applications, no need to rely on OpenAI Models anymore when you have this.
+
+
 [Elevate Chat & AI Applications: Mastering Azure Cognitive Search with Vector Storage for LLM Applications with Langchain](https://github.com/levalencia/DataScience-Portfolio/blob/main/ElevateChat&AIApplications/Index.ipynb)
 
 Discover the synergy of Azure Cognitive Search's custom skills and OpenAI Embedding Generator. Unleash the potential of enhanced data indexing, AI embeddings, and Language Models for enriched search and dynamic interactions. Explore the  series that transforms insights into conversations, bridging the gap between data and AI-driven engagement. We use Cognitive Search Vector Storage Public Preview, Langchain, Open AI,We use features like Knowledge Store, Custom Skilsets. Its an exciting portfolio project split in 5 parts:
@@ -18,6 +23,8 @@ Discover the synergy of Azure Cognitive Search's custom skills and OpenAI Embedd
 [Creating a Langchain application with Streamlit, OpenAI to talk to your own text documents using Pinecone as Vector DB](https://github.com/levalencia/DataScience-Portfolio/blob/main/LangChainWithTextFile/LangChainWithTextFile.ipynb)
 
 Discover the power of Langchain applications! In this blog post, I will explore how to create a cutting-edge Langchain application that enables you to interact with your own text documents in a conversational manner. By harnessing the capabilities of  Langchain, OpenAI, and Pinecone as a Vector DB, we'll guide you through the process of building a seamless user experience.
+
+
 
 ## Deep Learning, PyTorch, Transformers or  HuggingFace Projects
 
