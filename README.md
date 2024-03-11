@@ -3,6 +3,11 @@ Luis Valencia Data Science Portfolio
 
 ## LLMs, Langchain, OpenAI, Cognitive Search, Vector DB, Pinecone
 
+[Elevating User Engagement: Implementing Real-Time Streaming with RAG Chat and Azure Cognitive Search in Chatbot Backends with Flask and LangChain](https://github.com/levalencia/DataScience-Portfolio/tree/main/FlaskStreamingLangchain/app.py)
+
+Discover how to leverage FLASK and multi threading capabilities to create a streaming REST API to hace near to real time token generation (at least in the UI). 
+
+
 [Creating a Llama2 Managed Endpoint in Azure ML and Using it from Langchain](https://github.com/levalencia/DataScience-Portfolio/tree/main/Llama2WithLangchainAndAzureml)
 
 Discover the power of combining Azure ML Studio with the new model catalog, and deploy the models as Managed Endpoints, and then consuming those from Streamlit applications, no need to rely on OpenAI Models anymore when you have this.
