@@ -30,6 +30,12 @@ Discover the synergy of Azure Cognitive Search's custom skills and OpenAI Embedd
 Discover the power of Langchain applications! In this blog post, I will explore how to create a cutting-edge Langchain application that enables you to interact with your own text documents in a conversational manner. By harnessing the capabilities of  Langchain, OpenAI, and Pinecone as a Vector DB, we'll guide you through the process of building a seamless user experience.
 
 
+## Azure Machine Learning
+
+
+[Transfer Learning for Image Classification with PyTorch](https://github.com/levalencia/DataScience-Portfolio/blob/main/AzureML/environments.ipynb)
+
+In this project I demostrate how to properly manage environments, both local environments and azure ml environments which can be synced with requirements.txt for training and inference, this will help to have a reproducible working enviroment across the ML stages.
 
 ## Deep Learning, PyTorch, Transformers or  HuggingFace Projects
 
