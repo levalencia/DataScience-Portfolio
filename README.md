@@ -33,7 +33,7 @@ Discover the power of Langchain applications! In this blog post, I will explore 
 ## Azure Machine Learning
 
 
-[Transfer Learning for Image Classification with PyTorch](https://github.com/levalencia/DataScience-Portfolio/blob/main/AzureML/environments.ipynb)
+[Azure ML environments](https://github.com/levalencia/DataScience-Portfolio/blob/main/AzureML/environments.ipynb)
 
 In this project I demostrate how to properly manage environments, both local environments and azure ml environments which can be synced with requirements.txt for training and inference, this will help to have a reproducible working enviroment across the ML stages.
 
