@@ -1,6 +1,8 @@
 Luis Valencia Data Science Portfolio
 ===============
 
+
+
 ## LLMs, Langchain, OpenAI, Cognitive Search, Vector DB, Pinecone
 
 [Elevating User Engagement: Implementing Real-Time Streaming with RAG Chat and Azure Cognitive Search in Chatbot Backends with Flask and LangChain](https://github.com/levalencia/DataScience-Portfolio/tree/main/FlaskStreamingLangchain/app.py)
@@ -38,6 +40,9 @@ Discover the power of Langchain applications! In this blog post, I will explore 
 In this project I demostrate how to properly manage environments, both local environments and azure ml environments which can be synced with requirements.txt for training and inference, this will help to have a reproducible working enviroment across the ML stages.
 
 ## Deep Learning, PyTorch, Transformers or  HuggingFace Projects
+
+[Build a Neural Network from Scratch Using Numpy](https://github.com/levalencia/DataScience-Portfolio/blob/main/NeuralNetworkInNumPy/nn.ipynb)
+Learn how to build a basic NN from scratch without Pytorch Or TensorFlow.
 
 [Transfer Learning for Image Classification with PyTorch](https://github.com/levalencia/DataScience-Portfolio/blob/main/TransferLearningWithPytorch/Transfer_Learning_for_Image_Classification.ipynb)
 
