@@ -7,7 +7,7 @@ Luis Valencia Data Science Portfolio
 
 In this post, we'll explore one of the key concepts that powers large language models (LLMs) - word embeddings. Don't worry if it sounds complex right now, because by the end of this post, you'll have a clear idea of what word embeddings are and how they transform plain text into a form that computers can understand and learn from.
 
-[Efficient Tokenization with Byte Pair Encoding (BPE) for Neural Networks](https://github.com/levalencia/DataScience-Portfolio/tree/main/BuildSmallLanguageModel/tokenizationwithbpe.ipynb)
+[Efficient Tokenization with Byte Pair Encoding (BPE) for Neural Networks](https://github.com/levalencia/DataScience-Portfolio/tree/main/BuildaSmallLanguageModel/tokenizationwithbpe.ipynb)
 
 When working with neural networks for natural language processing (NLP), one of the key challenges is handling words that your model hasn't encountered before. Traditional word-level tokenization, which splits text into individual words, struggles with this because if a model encounters an unknown word during training, it can't process it properly. This is where Byte Pair Encoding (BPE) comes in.
 
