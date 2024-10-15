@@ -1,6 +1,20 @@
 Luis Valencia Data Science Portfolio
 ===============
 
+## Creating an LLM
+
+[Understanding Word Embeddings: The Foundation of Language Models](https://github.com/levalencia/DataScience-Portfolio/tree/main/BuildaSmallLanaguageModel/wordembeddings.ipynb)
+
+In this post, we'll explore one of the key concepts that powers large language models (LLMs) - word embeddings. Don't worry if it sounds complex right now, because by the end of this post, you'll have a clear idea of what word embeddings are and how they transform plain text into a form that computers can understand and learn from.
+
+[Efficient Tokenization with Byte Pair Encoding (BPE) for Neural Networks](https://github.com/levalencia/DataScience-Portfolio/tree/main/BuildaSmallLanaguageModel/tokenizationwithbpe.ipynb)
+
+When working with neural networks for natural language processing (NLP), one of the key challenges is handling words that your model hasn't encountered before. Traditional word-level tokenization, which splits text into individual words, struggles with this because if a model encounters an unknown word during training, it can't process it properly. This is where Byte Pair Encoding (BPE) comes in.
+
+
+[Implementing Byte Pair Encoding (BPE) for Tokenization: A Step-by-Step Guide](https://github.com/levalencia/DataScience-Portfolio/tree/main/BuildaSmallLanaguageModel/custombpetokenizer.ipynb)
+
+In this project, I write a custom and simple BPE tokenizer to be able to tokenize in subwords like the original BPE does, the intention of this project is for learning purposes and not to replace the original BPE which is widely adopted.
 
 
 ## LLMs, Langchain, OpenAI, Cognitive Search, Vector DB, Pinecone
