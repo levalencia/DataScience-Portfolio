@@ -16,6 +16,9 @@ When working with neural networks for natural language processing (NLP), one of 
 
 In this project, I write a custom and simple BPE tokenizer to be able to tokenize in subwords like the original BPE does, the intention of this project is for learning purposes and not to replace the original BPE which is widely adopted.
 
+[How Large Language Models Use Sliding Windows for Next-Word Prediction — With PyTorch](https://github.com/levalencia/DataScience-Portfolio/tree/main/BuildaSmallLanguageModel/SlidingWindow.ipynb)
+
+In this project I explain how the sliding technique for training LLMs works, fully detailed, step by step, easy to read and modify to your needs.
 
 ## LLMs, Langchain, OpenAI, Cognitive Search, Vector DB, Pinecone
 
